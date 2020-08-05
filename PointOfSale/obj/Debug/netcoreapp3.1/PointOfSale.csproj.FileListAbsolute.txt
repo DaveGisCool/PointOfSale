@@ -1,0 +1,13 @@
+C:\devbuild4\POSProject\PointOfSale\bin\Debug\netcoreapp3.1\PointOfSale.exe
+C:\devbuild4\POSProject\PointOfSale\bin\Debug\netcoreapp3.1\PointOfSale.deps.json
+C:\devbuild4\POSProject\PointOfSale\bin\Debug\netcoreapp3.1\PointOfSale.runtimeconfig.json
+C:\devbuild4\POSProject\PointOfSale\bin\Debug\netcoreapp3.1\PointOfSale.runtimeconfig.dev.json
+C:\devbuild4\POSProject\PointOfSale\bin\Debug\netcoreapp3.1\PointOfSale.dll
+C:\devbuild4\POSProject\PointOfSale\bin\Debug\netcoreapp3.1\PointOfSale.pdb
+C:\devbuild4\POSProject\PointOfSale\obj\Debug\netcoreapp3.1\PointOfSale.csprojAssemblyReference.cache
+C:\devbuild4\POSProject\PointOfSale\obj\Debug\netcoreapp3.1\PointOfSale.AssemblyInfoInputs.cache
+C:\devbuild4\POSProject\PointOfSale\obj\Debug\netcoreapp3.1\PointOfSale.AssemblyInfo.cs
+C:\devbuild4\POSProject\PointOfSale\obj\Debug\netcoreapp3.1\PointOfSale.csproj.CoreCompileInputs.cache
+C:\devbuild4\POSProject\PointOfSale\obj\Debug\netcoreapp3.1\PointOfSale.dll
+C:\devbuild4\POSProject\PointOfSale\obj\Debug\netcoreapp3.1\PointOfSale.pdb
+C:\devbuild4\POSProject\PointOfSale\obj\Debug\netcoreapp3.1\PointOfSale.genruntimeconfig.cache
